@@ -153,6 +153,7 @@ nav {
   justify-content: center;
   position: relative;
   overflow: hidden;
+  text-align: center;
 }
 .illus-svg-wrap::before {
   content: '';
